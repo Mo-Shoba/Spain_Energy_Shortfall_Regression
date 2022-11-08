@@ -66,33 +66,49 @@ In this project, you are tasked to model the shortfall between the energy genera
   <img src="https://github.com/Mo-Shoba/Spain_Energy_Shortfall_Regression/blob/main/Images/Screenshot_1.png" width="600" height="600" alt="screenshot" />
 </div>
 
+---
+
 <div align="center"> 
   <img src="https://github.com/Mo-Shoba/Spain_Energy_Shortfall_Regression/blob/main/Images/Screenshot_2.png" width="600" height="auto" alt="screenshot" /> 
 </div>
+
+---
 
 <div align="center"> 
   <img src="https://github.com/Mo-Shoba/Spain_Energy_Shortfall_Regression/blob/main/Images/Screenshot_3.png" width="600" height="auto" alt="screenshot" /> 
 </div>
 
+---
+
 <div align="center"> 
   <img src="https://github.com/Mo-Shoba/Spain_Energy_Shortfall_Regression/blob/main/Images/Screenshot_4.png" width="600" height="auto" alt="screenshot" /> 
 </div>
+
+---
 
 <div align="center"> 
   <img src="https://github.com/Mo-Shoba/Spain_Energy_Shortfall_Regression/blob/main/Images/Screenshot_5.png" width="800" height="auto" alt="screenshot" /> 
 </div>
 
+---
+
 <div align="center"> 
   <img src="https://github.com/Mo-Shoba/Spain_Energy_Shortfall_Regression/blob/main/Images/Screenshot_6.png" width="800" height="auto" alt="screenshot" /> 
 </div>
- 
+
+---
+
  <div align="center"> 
   <img src="https://github.com/Mo-Shoba/Spain_Energy_Shortfall_Regression/blob/main/Images/Screenshot_7.png" width="800" height="auto" alt="screenshot" /> 
 </div>
 
+---
+
 <div align="center"> 
   <img src="https://github.com/Mo-Shoba/Spain_Energy_Shortfall_Regression/blob/main/Images/Screenshot_8.png" width="800" height="auto" alt="screenshot" /> 
 </div>
+
+---
 
 <div align="center"> 
   <img src="https://github.com/Mo-Shoba/Spain_Energy_Shortfall_Regression/blob/main/Images/Screenshot_9.png" width="800" height="auto" alt="screenshot" /> 
